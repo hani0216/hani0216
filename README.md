@@ -100,8 +100,7 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hani0216&show_icons=true&locale=en&layout=compact" alt="hani0216" /></p>
-<a href="https://github.com/hani0216">
+<p>
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hani0216&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hani0216&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hani0216&theme=2077" height="180em" />
@@ -112,4 +111,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hani0216&show_icons=true&locale=en" alt="hani0216" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hani0216&" alt="hani0216" /></p>
